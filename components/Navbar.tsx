@@ -9,6 +9,7 @@ const NAV = [
   { href: "/fdr",      label: "FDR"      },
   { href: "/players",  label: "Players"  },
   { href: "/teams",    label: "Teams"    },
+  { href: "/concept",  label: "Concept"  },
 ];
 
 export default function Navbar() {
